@@ -13,8 +13,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
-        android:layout_marginTop="307dp"
-        android:layout_marginEnd="257dp">
+        android:layout_marginTop="306dp"
+        android:layout_marginEnd="274dp">
 
         <RadioButton
             android:id="@+id/c1"
@@ -22,8 +22,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="One"
-            android:onClick="check"
-            android:checked="true"
+
             />
 
         <RadioButton
@@ -31,7 +30,7 @@
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:onClick="check"
+
             android:text="Two" />
 
         <RadioButton
@@ -39,7 +38,7 @@
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:onClick="check"
+
             android:text="Three" />
 
 
@@ -59,7 +58,7 @@
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:onClick="check"
+
             android:text="Lahore" />
 
         <RadioButton
@@ -67,7 +66,7 @@
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:onClick="check"
+
             android:text="Faisalbad" />
 
         <RadioButton
@@ -75,7 +74,7 @@
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:onClick="check"
+
             android:text="Jhang" />
 
 
